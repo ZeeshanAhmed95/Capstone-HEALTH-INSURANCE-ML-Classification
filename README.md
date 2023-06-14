@@ -58,7 +58,6 @@ Various machine learning classification models are trained and compared to selec
 - Decision Trees
 - Random Forest
 - XGBoost
-- LightGBM
 
 ## Model Evaluation
 
@@ -79,7 +78,6 @@ To set up the project, follow these steps:
    - Matplotlib
    - Scikit-learn
    - XGBoost
-   - LightGBM
 3. Open the Jupyter Notebook `Zeeshan_Classification_Capstone_of_FINAL_HEALTH_INSURANCE_CROSS_SELL_PREDICTION.ipynb` in your preferred Jupyter environment.
 
 ## Usage
